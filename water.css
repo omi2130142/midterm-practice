@@ -1,0 +1,66 @@
+/* Global Styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Gochi Hand', cursive;
+    background-color: #f0f0f0; /* light gray background */
+  }
+  
+  h1 {
+    text-align: center;
+    color: #00698f; /* blue color */
+    margin-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #00698f; /* blue color */
+    transition: color 0.2s ease;
+  }
+  
+  a:hover {
+    color: #0099cc; /* hover color */
+  }
+  
+  /* Paragraph Styles */
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .gochi-hand-regular {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333; /* dark gray color */
+  }
+  
+  /* Image Styles */
+  
+  img {
+    width: 50%;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Custom Styles */
+  
+  p1 {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: #666; /* gray color */
+  }
+  
+  p1 i {
+    font-style: italic;
+    color: #999; /* light gray color */
+  }

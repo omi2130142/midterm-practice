@@ -1,0 +1,14 @@
+p {
+    border: 3px solid rgb(204, 0, 0);
+    background-color: rgb(165, 235, 220);
+    box-shadow: 4px 6px 3px grey;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px; }
+
+    .gochi-hand-regular {
+        font-family: "Gochi Hand", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
